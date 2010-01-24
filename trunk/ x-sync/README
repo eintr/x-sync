@@ -1,0 +1,5 @@
+FCWH.c & FCWH.h are used to extract version delta and version recovery.
+statFCWH.c & statFCWH.h are used to do statistics of FCWH.
+bibliographie.doc is the reference version,
+and bibliographieR.doc is the modified version.
+The statistics result is in the fold \statistics.
