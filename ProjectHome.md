@@ -1,0 +1,1 @@
+X-Sync(eXpress Synchronizer) is a project for file remote backup and retrieval in the cloud computing paradigm. Its sister project is TempoDoc. and their theoretic foundations are FCWH(Fast Continuous Weak Hash) and SECS(Sequential Extraction of Common Substrings).
